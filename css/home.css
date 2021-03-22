@@ -157,6 +157,18 @@ padding-top: 2rem;
     html{
         font-size: 55%;
     }
+    #main_container{
+
+        height: auto;
+    }
+    .detail{
+        height: 30rem;
+        width: 40rem;
+        /*border: 2px solid brown;*/
+        margin-right: 9rem;
+        margin-left: 2rem;
+        margin-top: 1.5rem;
+    }
 }
 @media(max-width:768px){
     html{
@@ -165,6 +177,14 @@ padding-top: 2rem;
     #main_container{
 
         height: auto;
+    }
+    .detail{
+        height: 30rem;
+        width: 40rem;
+        /*border: 2px solid brown;*/
+        margin-right: 9rem;
+        margin-left: 2rem;
+        margin-top: 1.5rem;
     }
 
 }
